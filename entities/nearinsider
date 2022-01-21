@@ -1,0 +1,16 @@
+slug: "near-insider"
+title: "Near Insider"
+oneliner: "Build media for Near ecosystem, about fast news, insights & analytics topics, brief overview, infographics, etc."
+website: "no"
+app: "no"
+whitepaper: "no"
+twitter: "https://twitter.com/near_insider"
+telegram: "https://t.me/near_insider"
+discord: "no"
+medium: "no"
+github: "no"
+ticker: "no"
+logo: img/logo near insider.svg
+category: education, guild, marketing, DAO
+status: launched
+contract: nearinsider.near
